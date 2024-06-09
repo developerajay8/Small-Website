@@ -5,7 +5,7 @@ import CartCount from "./CartCount";
 
 const Navbar = () => {
     return (
-        <div className="container hidden lg:block">
+        <div className="md:px-[70px] sm:px-[30px] px-[14px] hidden lg:block">
             <div className="flex justify-between items-center pt-8">
                 <h1 className="text-4xl font-medium">Logo</h1>
                 <div className="relative w-full max-w-[500px]">

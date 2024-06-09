@@ -29,7 +29,7 @@ const data=[
 
 const FeaturesSec = () => {
   return (
-    <div className="container pt-16">
+    <div className="md:px-[70px] sm:px-[30px] px-[14px] pt-16">
       <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
         {
             data.map(

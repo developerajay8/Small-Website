@@ -17,7 +17,7 @@ const data = [
 
 const FeaturesSection = () => {
     return (
-        <div className="container pt-16">
+        <div className="md:px-[70px] sm:px-[30px] px-[14px] pt-16">
             <div className="lg:flex justify-between items-center">
                 <div>
                     <h3 className="font-medium text-2xl">Fruits & Vegetables</h3>
